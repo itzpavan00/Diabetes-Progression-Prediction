@@ -1,4 +1,5 @@
 DIABETES PROGRESSION PREDICTIONS:
+
 This project focuses on predicting the progression of diabetes in patients over time using machine learning techniques. By analyzing medical and lifestyle data, the model estimates future blood sugar levels to help with early intervention and better disease management.
 Key Features:
 Utilizes regression algorithms such as Linear Regression and Random Forest Regressor for prediction.
