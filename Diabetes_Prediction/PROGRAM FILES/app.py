@@ -3,7 +3,8 @@
 #Importing libraries
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
+import plotly.graph_objects as plt
+#import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.datasets import load_diabetes
 from sklearn.model_selection import train_test_split
